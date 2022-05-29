@@ -1,0 +1,7 @@
+﻿  heightMap.cpp
+D:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\heightMap.cpp(5): fatal error C1083: Cannot open include file: 'gl\texture.h': No such file or directory
+  main.cpp
+D:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\main.cpp(8): fatal error C1083: Cannot open include file: 'texture.h': No such file or directory
+  math3d.cpp
+D:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\math3d.cpp(7): fatal error C1083: Cannot open include file: 'math3d.h': No such file or directory
+  Generating Code...

@@ -1,0 +1,33 @@
+﻿  3DTexture.cpp
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\3DTexture.cpp(61): error C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(555): note: see declaration of 'strlwr'
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\3DTexture.cpp(65): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\3DTexture.cpp(77): error C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(555): note: see declaration of 'strlwr'
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\3DTexture.cpp(142): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  camera.cpp
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\camera.cpp(8): fatal error C1083: Cannot open include file: 'gl\camera.h': No such file or directory
+  heightMap.cpp
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\heightMap.cpp(17): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  main.cpp
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\tgaLoader.h(55): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\main.cpp(1064): warning C4101: 'y': unreferenced local variable
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\main.cpp(1888): warning C4101: 'y': unreferenced local variable
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\main.cpp(2976): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+  Model_3DS.cpp
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\Model_3DS.cpp(160): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\Model_3DS.cpp(182): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\Model_3DS.cpp(212): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\Model_3DS.cpp(891): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  texture.cpp
+E:\University\3.Third Year\projects\Graphics\‏‏Testing - نسخة\Testing\texture.cpp(43): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Generating Code...
